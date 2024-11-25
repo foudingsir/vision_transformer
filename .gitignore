@@ -2,3 +2,6 @@
 *.pth
 vit_base_patch16_224_in21k.pth
 /data
+/runs
+/__pycache__
+/.idea
